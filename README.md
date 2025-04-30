@@ -1,7 +1,7 @@
 # Brad P. Adair
 ### I am an experienced IT Leader, Cloud Architect, and Infrastructure Engineer.
 
-⤷ I have almost 20 years of experience in IT, all of it on the operations side. I have experience in IT management, cloud computing, systems engineering, Windows and Linux Administration, DevOps, and SRE. I am also an AWS Certified Solutions Architect - Professional.
+⤷ I have almost 20 years of experience in IT, all of it on the infrastructure and operations side. I have experience in IT management, virtualization, data center management, cloud computing, systems engineering, Windows and Linux Administration, DevOps, and SRE. I have also held multiple AWS certifications.
 
  <a aligh="left" href="https://adair.tech" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:brad@adair.tech" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/bpadair" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
